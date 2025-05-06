@@ -1,4 +1,5 @@
 # analog kickdrum circuit
+an analog kickdrum circuit designed for the *electronics workshop 2* course at iiit hyderabad.  
 
 ## features
 - **trigger** - gate-to-pulse conversion using tl081
@@ -49,11 +50,10 @@
 
 ## contributors
   priyanshi jain  
-  sudhanva joshi
+  sudhanva joshi  
+  
+for details, see [project-report.pdf](documents/project-report.pdf).
 
 ---
 *note: this circuit is inspired by similar synth and kick circuits by moritz klein*
 
-```
-electronics workshop-ii project-2 team14 - iiit hyderabad
-```
