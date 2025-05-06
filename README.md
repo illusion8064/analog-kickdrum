@@ -42,9 +42,10 @@
 - **noise issues**: add 100nf decoupling caps and minimize wire lengths
 
 ## project files
-- `/schematics` - ltspice simulation files
+- `/simulations` - ltspice simulation files
 - `/hardware` - breadboard implementation photos
-- `/measurements` - oscilloscope images
+- `/datasheets` - datasheets of the ics used
+- `/documents` - relevant theory and full report 
 
 ## contributors
   priyanshi jain  
@@ -54,5 +55,5 @@
 *note: this circuit is inspired by similar synth and kick circuits by moritz klein*
 
 ```
-electronics workshop-ii project-2 - iiit hyderabad
+electronics workshop-ii project-2 team14 - iiit hyderabad
 ```
